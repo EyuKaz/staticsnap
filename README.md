@@ -9,7 +9,7 @@ A WordPress plugin that converts dynamic pages/posts into static HTML for speed 
 - 📁 No external dependencies  
 
 ## Installation  
-1. Download the [latest release](https://github.com/yourusername/staticsnap/releases).  
+1. Download the [latest release](https://github.com/EyuKaz/staticsnap/releases).  
 2. Upload `staticsnap.zip` via **Plugins → Add New → Upload**.  
 3. Activate the plugin.  
 
