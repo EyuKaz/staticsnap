@@ -4,8 +4,6 @@
 # StaticSnap 🚀  
 **Turn your WordPress site into a static speed demon!**  
 
-![StaticSnap Logo] *(Pretend this is a cool logo of a rocket-powered snail because SPEED + STATIC = 🐌🚀)*  
-
 ---
 
 ## What is StaticSnap? 🤔  
