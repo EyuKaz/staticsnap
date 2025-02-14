@@ -121,7 +121,7 @@ StaticSnap is licensed under **GPLv2**. That means you can use, modify, and shar
 ---
 
 ## Credits 🙌  
-- **Developed by**: Your Name (aka the lazy genius).  
+- **Developed by**: EKAZ (aka the lazy genius).  
 - **Inspired by**: Coffee, procrastination, and a hatred for slow websites.  
 
 ---
