@@ -1,11 +1,10 @@
-Absolutely! Let’s make the **StaticSnap** GitHub README a hilarious, emoji-filled masterpiece while still being super informative. Here’s the full README with humor, emojis, and step-by-step instructions:
 
 ---
 
 # StaticSnap 🚀  
 **Turn your WordPress site into a static speed demon!**  
 
-![StaticSnap Logo](https://via.placeholder.com/150) *(Pretend this is a cool logo of a rocket-powered snail because SPEED + STATIC = 🐌🚀)*  
+![StaticSnap Logo] *(Pretend this is a cool logo of a rocket-powered snail because SPEED + STATIC = 🐌🚀)*  
 
 ---
 
@@ -38,7 +37,7 @@ Think of it as **WordPress on a diet**—no more bloated database queries, no mo
 - **Option A**: Download the [latest release](https://github.com/yourname/staticsnap/releases) and upload it to your WordPress site.  
 - **Option B**: Clone this repo into your `/wp-content/plugins/` folder:  
   ```bash  
-  git clone https://github.com/yourname/staticsnap.git  
+  git clone https://github.com/EyuKaz/staticsnap.git  
   ```  
 
 ### Step 2: Activate the Plugin  
